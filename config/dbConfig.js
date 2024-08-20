@@ -1,8 +1,8 @@
 module.exports ={
-    HOST :"localhost",
+    HOST :"autorack.proxy.rlwy.net",
     USER : "root",
-    PASSWORD : "",
-    DB : "reactnode",
+    PASSWORD : "RwhXOJRKbQlDILlTlcMtNoaAPYbjtiFv",
+    DB : "railway",
     diaect:"mysql",
     pool:{
         max:5 ,
